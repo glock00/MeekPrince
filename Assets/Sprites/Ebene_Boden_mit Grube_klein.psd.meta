@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 91b0c73d4f66e5140bba8993a7702005
+timeCreated: 1512293337
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ebene_Boden_mit Grube_klein_1
+    21300002: Ebene_Boden_mit Grube_klein_2
+    21300004: Ebene_Boden_mit Grube_klein_3
+    21300006: Ebene_Boden_mit Grube_klein_4
+    21300008: Ebene_Boden_mit Grube_klein_5
+    21300010: Ebene_Boden_mit Grube_klein_6
+    21300012: Ebene_Boden_mit Grube_klein_7
+    21300014: Ebene_Boden_mit Grube_klein_8
+    21300016: Ebene_Boden_mit Grube_klein_9
+    21300018: Ebene_Boden_mit Grube_klein_10
+    21300020: Ebene_Boden_mit Grube_klein_12
+    21300022: Ebene_Boden_mit Grube_klein_13
+    21300024: Ebene_Boden_mit Grube_klein_14
+    21300026: Ebene_Boden_mit Grube_klein_15
+    21300028: Ebene_Boden_mit Grube_klein_16
+    21300030: Ebene_Boden_mit Grube_klein_17
+    21300032: Ebene_Boden_mit Grube_klein_18
+    21300034: Ebene_Boden_mit Grube_klein_19
+    21300036: Ebene_Boden_mit Grube_klein_20
+    21300038: Ebene_Boden_mit Grube_klein_21
+    21300040: Ebene_Boden_mit Grube_klein_23
+    21300042: Ebene_Boden_mit Grube_klein_24
+    21300044: Ebene_Boden_mit Grube_klein_25
+    21300046: Ebene_Boden_mit Grube_klein_26
+    21300048: Ebene_Boden_mit Grube_klein_27
+    21300050: Ebene_Boden_mit Grube_klein_28
+    21300052: Ebene_Boden_mit Grube_klein_29
+    21300054: Ebene_Boden_mit Grube_klein_30
+    21300056: Ebene_Boden_mit Grube_klein_31
+    21300058: Ebene_Boden_mit Grube_klein_32
+    21300060: Ebene_Boden_mit Grube_klein_34
+    21300062: Ebene_Boden_mit Grube_klein_35
+    21300064: Ebene_Boden_mit Grube_klein_36
+    21300066: Ebene_Boden_mit Grube_klein_37
+    21300068: Ebene_Boden_mit Grube_klein_38
+    21300070: Ebene_Boden_mit Grube_klein_39
+    21300072: Ebene_Boden_mit Grube_klein_40
+    21300074: Ebene_Boden_mit Grube_klein_41
+    21300076: Ebene_Boden_mit Grube_klein_42
+    21300078: Ebene_Boden_mit Grube_klein_43
+    21300080: Ebene_Boden_mit Grube_klein_45
+    21300082: Ebene_Boden_mit Grube_klein_46
+    21300084: Ebene_Boden_mit Grube_klein_47
+    21300086: Ebene_Boden_mit Grube_klein_48
+    21300088: Ebene_Boden_mit Grube_klein_49
+    21300090: Ebene_Boden_mit Grube_klein_50
+    21300092: Ebene_Boden_mit Grube_klein_51
+    21300094: Ebene_Boden_mit Grube_klein_52
+    21300096: Ebene_Boden_mit Grube_klein_53
+    21300098: Ebene_Boden_mit Grube_klein_54
+    21300100: Ebene_Boden_mit Grube_klein_56
+    21300102: Ebene_Boden_mit Grube_klein_57
+    21300104: Ebene_Boden_mit Grube_klein_58
+    21300106: Ebene_Boden_mit Grube_klein_59
+    21300108: Ebene_Boden_mit Grube_klein_60
+    21300110: Ebene_Boden_mit Grube_klein_61
+    21300112: Ebene_Boden_mit Grube_klein_62
+    21300114: Ebene_Boden_mit Grube_klein_63
+    21300116: Ebene_Boden_mit Grube_klein_64
+    21300118: Ebene_Boden_mit Grube_klein_67
+    21300120: Ebene_Boden_mit Grube_klein_68
+    21300122: Ebene_Boden_mit Grube_klein_69
+    21300124: Ebene_Boden_mit Grube_klein_70
+    21300126: Ebene_Boden_mit Grube_klein_71
+    21300128: Ebene_Boden_mit Grube_klein_72
+    21300130: Ebene_Boden_mit Grube_klein_73
+    21300132: Ebene_Boden_mit Grube_klein_74
+    21300134: Ebene_Boden_mit Grube_klein_75
+    21300136: Ebene_Boden_mit Grube_klein_78
+    21300138: Ebene_Boden_mit Grube_klein_79
+    21300140: Ebene_Boden_mit Grube_klein_80
+    21300142: Ebene_Boden_mit Grube_klein_81
+    21300144: Ebene_Boden_mit Grube_klein_82
+    21300146: Ebene_Boden_mit Grube_klein_83
+    21300148: Ebene_Boden_mit Grube_klein_84
+    21300150: Ebene_Boden_mit Grube_klein_85
+    21300152: Ebene_Boden_mit Grube_klein_86
+    21300154: Ebene_Boden_mit Grube_klein_89
+    21300156: Ebene_Boden_mit Grube_klein_90
+    21300158: Ebene_Boden_mit Grube_klein_91
+    21300160: Ebene_Boden_mit Grube_klein_92
+    21300162: Ebene_Boden_mit Grube_klein_93
+    21300164: Ebene_Boden_mit Grube_klein_94
+    21300166: Ebene_Boden_mit Grube_klein_95
+    21300168: Ebene_Boden_mit Grube_klein_96
+    21300170: Ebene_Boden_mit Grube_klein_97
+    21300172: Ebene_Boden_mit Grube_klein_100
+    21300174: Ebene_Boden_mit Grube_klein_101
+    21300176: Ebene_Boden_mit Grube_klein_102
+    21300178: Ebene_Boden_mit Grube_klein_103
+    21300180: Ebene_Boden_mit Grube_klein_104
+    21300182: Ebene_Boden_mit Grube_klein_105
+    21300184: Ebene_Boden_mit Grube_klein_106
+    21300186: Ebene_Boden_mit Grube_klein_107
+    21300188: Ebene_Boden_mit Grube_klein_108
+    21300190: Ebene_Boden_mit Grube_klein_111
+    21300192: Ebene_Boden_mit Grube_klein_112
+    21300194: Ebene_Boden_mit Grube_klein_113
+    21300196: Ebene_Boden_mit Grube_klein_114
+    21300198: Ebene_Boden_mit Grube_klein_115
+    21300200: Ebene_Boden_mit Grube_klein_116
+    21300202: Ebene_Boden_mit Grube_klein_117
+    21300204: Ebene_Boden_mit Grube_klein_118
+    21300206: Ebene_Boden_mit Grube_klein_119
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ebene_Boden_mit Grube_klein_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
